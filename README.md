@@ -1,0 +1,2 @@
+# default
+Default WonderCMS theme
