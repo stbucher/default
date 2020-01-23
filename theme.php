@@ -1,4 +1,4 @@
-<? global $Wcms ?>
+<?php global $Wcms ?>
 
 <!DOCTYPE html>
 <html lang="en">
