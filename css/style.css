@@ -8,13 +8,13 @@ body {
 	color: #555;
 	background: #eee;
 	margin-bottom: 60px;
-	font-family: "Lucida Sans Unicode", Verdana;
+	font-family: "Fira Sans", "Lucida Sans Unicode", Verdana;
 }
 
 .whiteFont {color: #fff;}
 .padding20 {padding: 20px;}
 .padding40 {padding: 40px;}
-.blueBackground {background-color: #1ab;}
+.blueBackground {background-color: #435FB4;}
 
 .navbar-default .navbar-toggle {border-color: #888;}
 
