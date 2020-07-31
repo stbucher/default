@@ -1,4 +1,4 @@
-# Default WonderCMS theme
+# gsn Theme - Modification of Default WonderCMS theme
 Fully responsive.
 
 ## Preview
